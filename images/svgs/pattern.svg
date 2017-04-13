@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="700px" height="185.863px" viewBox="0 0 700 185.863" enable-background="new 0 0 700 185.863" xml:space="preserve">
+<pattern  x="-150.543" y="-408.165" width="95.811" height="96.6" patternUnits="userSpaceOnUse" id="New_Pattern" viewBox="0 -96.6 95.811 96.6" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,-96.6 95.811,-96.6 95.811,0 0,0 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-miterlimit="10" points="73.129,-95.855 65.729,-88.707 65.729,-77.707 
+			54.395,-77.707 46.729,-70.041 39.395,-77.707 28.062,-77.707 28.062,-88.707 20.729,-96.251 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" points="
+			94.974,-22.956 88.062,-30.041 76.729,-30.041 76.729,-41.041 69.396,-48.585 76.729,-55.795 76.729,-67.128 87.729,-67.128 
+			94.491,-73.608 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-linecap="square" stroke-miterlimit="10" points="20.685,-1.266 28.351,-7.599 
+			28.351,-18.931 39.351,-18.931 46.896,-26.265 54.105,-18.931 65.439,-18.931 65.439,-7.931 73.474,-0.706 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-miterlimit="10" points="0.891,-74.105 8.323,-67.129 19.655,-67.129 
+			19.655,-56.129 26.989,-48.584 19.655,-41.375 19.655,-30.041 8.655,-30.041 0.655,-23.376 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-linecap="square" stroke-miterlimit="10" points="88.474,-0.831 76.729,-12.708 
+			76.729,-18.855 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-miterlimit="10" points="95.474,-7.081 82.562,-18.855 65.439,-18.855 
+			65.439,-37.041 53.395,-48.585 65.729,-60.374 65.729,-77.707 82.562,-77.707 94.317,-89.312 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-miterlimit="10" points="0.351,-89.041 11.851,-77.707 28.974,-77.707 
+			28.974,-59.708 41.018,-48.164 28.684,-36.375 28.684,-19.042 11.851,-19.042 0.351,-7.708 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-miterlimit="10" points="17.729,-77.563 17.729,-84.374 6.692,-96.015 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-linecap="square" stroke-miterlimit="10" points="7.129,-1.694 17.729,-12.708 
+			17.729,-18.373 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-linecap="square" stroke-miterlimit="10" points="76.729,-77.707 76.729,-84.374 
+			87.594,-95.781 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-miterlimit="10" points="28.684,-30.375 35.062,-30.375 46.896,-42.708 
+			59.395,-30.375 65.439,-30.375 		"/>
+		<polyline fill="none" stroke="#AF8B59" stroke-miterlimit="10" points="28.684,-67.042 35.395,-67.042 47.062,-54.375 
+			58.729,-67.042 65.729,-67.042 		"/>
+	</g>
+</pattern>
+<pattern  id="SVGID_1_" xlink:href="#New_Pattern" patternTransform="matrix(1 0 0 1 -196.1768 69.7852)">
+</pattern>
+<rect fill="url(#SVGID_1_)" width="700" height="185.863"/>
+</svg>
